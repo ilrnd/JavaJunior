@@ -13,6 +13,8 @@
         <module>HT1_2</module>
         <module>HT2_1</module>
         <module>HT2_2</module>
+        <module>HT3_1</module>
+        <module>HT3_2</module>
     </modules>
 
     <properties>
