@@ -6,14 +6,21 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="chat-server" />
         <module name="HT2_2" />
         <module name="HT3_1" />
         <module name="HT1_2" />
         <module name="HT2_1" />
         <module name="HT3_2" />
+        <module name="HT5" />
+        <module name="chat-client" />
         <module name="HT4" />
         <module name="HT1_1" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="HT5Demo" target="21" />
+      <module name="untitled" target="21" />
+    </bytecodeTargetLevel>
   </component>
 </project>
