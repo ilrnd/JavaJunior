@@ -18,3 +18,7 @@
 4-й семинар
 
 1. https://github.com/ilrnd/JavaJunior/tree/main/HT4/src/main/java/org/example
+
+5-й семинар
+
+1. https://github.com/ilrnd/JavaJunior/tree/main/HT5
